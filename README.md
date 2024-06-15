@@ -1,7 +1,3 @@
-Sure, let's create a README for the project "CodeTechBlog" with icons and emojis.
-
----
-
 # CodeTechBlog 🖥️📝
 
 ### Project Description
